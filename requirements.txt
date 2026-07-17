@@ -1,0 +1,4 @@
+pyscreenshot
+opencv-python
+numpy
+pyautogui
